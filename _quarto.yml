@@ -1,7 +1,7 @@
 project:
   type: website
   resources: 
-        - John_Tan_Resume.pdf
+        - files/
 
 website:
   title: "John Tan"

@@ -4,7 +4,7 @@ title: "John Tan"
 about:
   template: trestles
   image: JT201331.png
-  image-width: 20em
+  image-width: 22em
   image-shape: rounded
   links:
     - text: LinkedIn
@@ -17,6 +17,7 @@ about:
       icon: inbox-fill
       url: "mailto:johnsebastiantan@gmail.com"
     - text: Resume
+      icon: filetype-pdf
       url: "files/John_Tan_Resume.pdf"
 toc: false
 ---
