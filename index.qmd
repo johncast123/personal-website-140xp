@@ -1,11 +1,30 @@
 ---
+comments: false
 title: "John Tan"
+about:
+  template: trestles
+  image: JT201331.png
+  image-width: 20em
+  image-shape: rounded
+  links:
+    - text: LinkedIn
+      icon: linkedin
+      url: "https://www.linkedin.com/in/john-sebastian-tan"
+    - text: Github
+      icon: github
+      url: "https://github.com/johncast123"
+    - text: Email
+      icon: inbox-fill
+      url: "mailto:johnsebastiantan@gmail.com"
+    - text: Resume
+      url: "JohnTanResume.pdf"
+toc: false
 ---
 
-This is a Quarto website.
+# Hello! I'm John.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am a senior majoring in Statistics & Data Science and Economics at UCLA. I'm blah blah blah blah
 
-```{r}
-1 + 1
-```
+## Education
+
+## Experience

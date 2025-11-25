@@ -11,6 +11,20 @@
     "href": "index.html",
     "title": "John Tan",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "I am a senior majoring in Statistics & Data Science and Economics at UCLA. I’m blah blah blah blah"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "John Tan",
+    "section": "Education",
+    "text": "Education"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "John Tan",
+    "section": "Experience",
+    "text": "Experience"
   }
 ]
