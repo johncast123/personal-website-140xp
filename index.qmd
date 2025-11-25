@@ -17,7 +17,7 @@ about:
       icon: inbox-fill
       url: "mailto:johnsebastiantan@gmail.com"
     - text: Resume
-      url: "JohnTanResume.pdf"
+      url: "files/John_Tan_Resume.pdf"
 toc: false
 ---
 
