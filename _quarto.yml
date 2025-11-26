@@ -9,14 +9,17 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: about.qmd
-        text: About
+      - href: projects.qmd
+        text: Projects
+      - href: courses.qmd
+        text: Courses
+      - href: more.qmd
+        text: More
 
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      - sandstone
     css: styles.css
     toc: true
 

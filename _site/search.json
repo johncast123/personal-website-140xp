@@ -2,7 +2,7 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "More from me",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
@@ -26,5 +26,26 @@
     "title": "John Tan",
     "section": "Experience",
     "text": "Experience"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Here are some things I’ve worked on."
+  },
+  {
+    "objectID": "courses.html",
+    "href": "courses.html",
+    "title": "Courses",
+    "section": "",
+    "text": "Here are some things I’ve worked on."
+  },
+  {
+    "objectID": "more.html",
+    "href": "more.html",
+    "title": "More From Me",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   }
 ]

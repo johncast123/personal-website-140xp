@@ -1,1 +1,27 @@
 /* css styles */
+/* Blue navbar like Bootswatch example */
+.navbar {
+  background-color: var(--bs-primary) !important;
+}
+
+/* Make primary color a nice blue */
+:root {
+  --bs-primary: #345a8a; /* You can switch to UCLA blue later */
+}
+
+.navbar .navbar-brand,
+.navbar .nav-link {
+  color: #ffffff !important;
+}
+
+.navbar .nav-link.active {
+  font-weight: 600;
+  text-decoration: underline;
+}
+
+/* Remove light gray hover background */
+.navbar-nav .nav-link:hover {
+  background-color: transparent;
+  color: #e0e7ff !important;
+}
+
