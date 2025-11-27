@@ -1,5 +1,20 @@
 ---
 title: "Projects"
+toc: false
+listing:
+  - id: project-listing
+    contents:
+      - "/projects/*.qmd"
+    sort: true
+    sort-ui: true
+    filter-ui: true
+    type: table
+    fields:
+      - title
+    categories: false
 ---
 
 Here are some things I've worked on.
+
+:::project-listing
+:::

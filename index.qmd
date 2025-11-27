@@ -1,11 +1,12 @@
 ---
 comments: false
-title: "John Tan"
+title: "John Sebastian Tan"
+subtitle: "Statistics & Data Science B.S. | Economics B.A. @ UCLA"
 about:
   template: trestles
   image: JT201331.png
   image-width: 22em
-  image-shape: rounded
+  image-shape: round
   links:
     - text: LinkedIn
       icon: linkedin

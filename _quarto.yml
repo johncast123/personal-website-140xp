@@ -15,7 +15,9 @@ website:
         text: Courses
       - href: more.qmd
         text: More
-
+  page-footer: 
+    right: "&copy; 2025, John Sebastian Tan"
+  
 format:
   html:
     theme:
@@ -25,3 +27,5 @@ format:
 
 editor: visual
 
+execute:
+  freeze: auto
