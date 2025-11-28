@@ -1,31 +1,10 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "More from me",
+    "objectID": "more.html",
+    "href": "more.html",
+    "title": "More From Me",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "John Sebastian Tan",
-    "section": "",
-    "text": "I am a senior majoring in Statistics & Data Science and Economics at UCLA. I’m blah blah blah blah"
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "John Tan",
-    "section": "Education",
-    "text": "Education"
-  },
-  {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "John Tan",
-    "section": "Experience",
-    "text": "Experience"
   },
   {
     "objectID": "projects.html",
@@ -39,13 +18,34 @@
     "href": "courses.html",
     "title": "Courses",
     "section": "",
-    "text": "Here are some things I’ve worked on."
+    "text": "These are some notable courses that I have taken, which have allowed me to hone my critical thinking skills and build my foundation as a statistician, economist, presenter, and student.\n\nUniversity of California, Los Angeles\n\nStatistics\n\n\n\n\n\n\n\n\nCourse Number\nCourse Name\nTerm\n\n\n\n\nSTATS 100C\nLinear Models\nSpring 2025\n\n\nSTATS 101A\nIntroduction to Data Analysis and Regression\nWinter 2025\n\n\nSTATS 101B\nIntroduction to Design and Analysis of Experiment\nSpring 2025\n\n\nSTATS 101C\nIntroduction to Statistical Models and Data Mining\nSummer 2025\n\n\nSTATS 102A\nIntroduction to Computational Statistics with R\nWinter 2025\n\n\nSTATS 102B\nIntroduction to Computation and Optimization for Statistics\nSpring 2025\n\n\nSTATS 102C\nIntroduction to Monte Carlo Methods\nSummer 2025\n\n\nSTATS 140XP/141XP\nPractice of Statistical Consulting\nFall 2025, Winter 2026\n\n\n\n\n\nEconomics\n\n\n\n\n\n\n\n\nCourse Number\nCourse Name\nTerm\n\n\n\n\nECON 103\nIntroduction to Econometrics\nSpring 2024\n\n\nECON 104\nData Science for Economists\nFall 2024\n\n\nECON 106I\nOrganization of Firms\nFall 2025\n\n\nECON 134\nEnvironmental Economics\nFall 2024\n\n\nECON 144\nEconomic Forecasting\nSummer 2023\n\n\nECON 170\nIndustrial Organization: Theory and Tactics\nSpring 2024\n\n\n\n\n\nMiscellaneous\n\n\n\n\n\n\n\n\nCourse Number\nCourse Name\nTerm\n\n\n\n\nTHEATER C146A\nArt and Process of Entertainment Design\nWinter 2024\n\n\nDGT HUM 101\nIntroduction to Digital Humanities\nSummer 2025"
   },
   {
-    "objectID": "more.html",
-    "href": "more.html",
-    "title": "More From Me",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "John Sebastian Tan",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "I am a senior majoring in Statistics & Data Science and Economics at UCLA. I’m blah blah blah blah\n\n\nUniversity of California, Los Angeles – Los Angeles, CA\nB.S. Statistics & Data Science, B.A. Economics\nExpected June 2026 - Summa Cum Laude\nClubs: USAC Community Service Commission, ACM Studio, Film Production Society\n\n\n\nProject Liaison Advisor, USAC Community Service Commission – Los Angeles, CA\nJune 2025 – Present\n\nAdvise 6 Project Liaison Directors overseeing 30+ student-led service organizations, ensuring equitable access to key resources such as funding (over $200K USD) and transportation.\nDevelop long-term knowledge continuity tools, including tutorial videos, online dashboards, and documentation, to ensure sustainable onboarding and smoother transitions between annual leadership teams.\n\nFinancial Controller Intern, SIEMENS Advanta – Prague, Czech Republic\nJune 2024 – August 2024\n\nConducted five project-controlling case studies on topics such as purchase volume, IT cost analysis, and manpower planning, utilizing Excel and exploring AI tools to optimize processes.\nShadowed key financial controlling processes, including ordering, time booking, reporting, and cost and supplier analysis, gaining familiarity with SAP invoicing and corporate procedures.\n\nResident Assistant, UCLA Residential Life – Los Angeles, CA\nSeptember 2023 – June 2024\n\nSelected out of over 2,000 UCLA applicants to be a Resident Assistant (RA), overseeing the wellbeing and safety of 73 student residents in UCLA housing and fostering community by organizing a wide variety of programs.\nCompleted a comprehensive 2-week training program to refine managerial skills and interpersonal counseling techniques for effective conflict resolution and leadership.\n\nNaval Officer, Platoon Commander, Singapore Armed Forces – Singapore\nJanuary 2020 – November 2021\n\nSpearheaded the coordination of daily operations and personnel within the Fast Craft Company in as Officer-Of-The-Day in the Fast Craft Training Unit (FCTU).\nGuided and mentored groups of 10 to 20 new recruits at a time; facilitated their training schedules to ensure a safe and effective progression towards operational readiness."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "John Sebastian Tan",
+    "section": "",
+    "text": "University of California, Los Angeles – Los Angeles, CA\nB.S. Statistics & Data Science, B.A. Economics\nExpected June 2026 - Summa Cum Laude\nClubs: USAC Community Service Commission, ACM Studio, Film Production Society"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "John Sebastian Tan",
+    "section": "",
+    "text": "Project Liaison Advisor, USAC Community Service Commission — Los Angeles, CA\nJune 2025 – Present\n\nAdvise 6 Project Liaison Directors overseeing 30+ student-led service organizations, ensuring equitable access to key resources such as funding (over $200K USD) and transportation.\nDevelop long-term knowledge continuity tools, including tutorial videos, online dashboards, and documentation, to ensure sustainable onboarding and smoother transitions between annual leadership teams.\n\nFinancial Controller Intern, SIEMENS Advanta — Prague, Czech Republic\nJune 2024 – August 2024\n\nConducted five project-controlling case studies on topics such as purchase volume, IT cost analysis, and manpower planning, utilizing Excel and exploring AI tools to optimize processes.\nShadowed key financial controlling processes, including ordering, time booking, reporting, and cost and supplier analysis, gaining familiarity with SAP invoicing and corporate procedures.\n\nResident Assistant, UCLA Residential Life — Los Angeles, CA\nSeptember 2023 – June 2024\n\nSelected out of over 2,000 UCLA applicants to be a Resident Assistant (RA), overseeing the wellbeing and safety of 73 student residents in UCLA housing and fostering community by organizing a wide variety of programs.\nCompleted a comprehensive 2-week training program to refine managerial skills and interpersonal counseling techniques for effective conflict resolution and leadership.\n\nNaval Officer, Platoon Commander, Singapore Armed Forces — Singapore\nJanuary 2020 – November 2021\n\nSpearheaded the coordination of daily operations and personnel within the Fast Craft Company in as Officer-Of-The-Day in the Fast Craft Training Unit (FCTU).\nGuided and mentored groups of 10 to 20 new recruits at a time; facilitated their training schedules to ensure a safe and effective progression towards operational readiness."
+  },
+  {
+    "objectID": "index.html#work-experience",
+    "href": "index.html#work-experience",
+    "title": "John Sebastian Tan",
+    "section": "",
+    "text": "Project Liaison Advisor, USAC Community Service Commission – Los Angeles, CA\nJune 2025 – Present\n\nAdvise 6 Project Liaison Directors overseeing 30+ student-led service organizations, ensuring equitable access to key resources such as funding (over $200K USD) and transportation.\nDevelop long-term knowledge continuity tools, including tutorial videos, online dashboards, and documentation, to ensure sustainable onboarding and smoother transitions between annual leadership teams.\n\nFinancial Controller Intern, SIEMENS Advanta – Prague, Czech Republic\nJune 2024 – August 2024\n\nConducted five project-controlling case studies on topics such as purchase volume, IT cost analysis, and manpower planning, utilizing Excel and exploring AI tools to optimize processes.\nShadowed key financial controlling processes, including ordering, time booking, reporting, and cost and supplier analysis, gaining familiarity with SAP invoicing and corporate procedures.\n\nResident Assistant, UCLA Residential Life – Los Angeles, CA\nSeptember 2023 – June 2024\n\nSelected out of over 2,000 UCLA applicants to be a Resident Assistant (RA), overseeing the wellbeing and safety of 73 student residents in UCLA housing and fostering community by organizing a wide variety of programs.\nCompleted a comprehensive 2-week training program to refine managerial skills and interpersonal counseling techniques for effective conflict resolution and leadership.\n\nNaval Officer, Platoon Commander, Singapore Armed Forces – Singapore\nJanuary 2020 – November 2021\n\nSpearheaded the coordination of daily operations and personnel within the Fast Craft Company in as Officer-Of-The-Day in the Fast Craft Training Unit (FCTU).\nGuided and mentored groups of 10 to 20 new recruits at a time; facilitated their training schedules to ensure a safe and effective progression towards operational readiness."
   }
 ]
