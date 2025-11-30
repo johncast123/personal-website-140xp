@@ -14,7 +14,7 @@ listing:
     categories: false
 ---
 
-These are some of the projects I worked on during my time at UCLA! Some are coursework projects and others are personal.
+These are some of the projects I worked on during my time at UCLA.
 
-:::project-listing
+::: project-listing
 :::

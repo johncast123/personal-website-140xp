@@ -23,46 +23,47 @@ about:
 toc: false
 ---
 
-::: {.column-page}
+::: column-page
+# Hello! I'm John 👋
 
-# Hello! I'm John.
+I'm a senior majoring in Statistics & Data Science and Economics at UCLA. I'm passionate about solving problems using data-driven insights and incentives to motivate change. I thrive in collaborative environments and enjoy solving problems with innovative yet simple solutions. I'm currently interested in product or project management roles, where I can empower diverse teams to build outcomes greater than the sum of their parts.
 
-I am a senior majoring in Statistics & Data Science and Economics at UCLA. I'm blah blah blah blah
+Outside of work, I love engaging with all forms of creative media 📸. In my free time you will find me watching a movie, reading a book, diving into a great game, editing a video, drawing or learning a new software. I also enjoy quality time with my family, playing golf, and running. I'm currently training for a marathon!
+
+I'm a proud Singaporean 🇸🇬, and deeply grateful for the opportunities my family has given me. Their support has shaped my values and continues to motivate everything I pursue. 
+
+Welcome to my website, feel free to reach out!
 
 ## Education
 
-**University of California, Los Angeles** -- *Los Angeles, CA*  
-**B.S. Statistics & Data Science**, **B.A. Economics**  
-*Expected June 2026 - Summa Cum Laude*  
+**University of California, Los Angeles** -- *Los Angeles, CA*\
+**B.S. Statistics & Data Science**, **B.A. Economics**\
+*Expected June 2026 - Summa Cum Laude*\
 Clubs: USAC Community Service Commission, ACM Studio, Film Production Society
 
 ## Work Experience
 
-**Project Liaison Advisor**, USAC Community Service Commission -- *Los Angeles, CA*  
-*June 2025 -- Present* 
+**Project Liaison Advisor**, USAC Community Service Commission -- *Los Angeles, CA*\
+*June 2025 -- Present*
 
-- Advise 6 Project Liaison Directors overseeing 30+ student-led service organizations, ensuring equitable access to key resources such as funding (over $200K USD) and transportation.
-- Develop long-term knowledge continuity tools, including tutorial videos, online dashboards, and documentation, to ensure sustainable onboarding and smoother transitions between annual leadership teams.
+-   Advise 6 Project Liaison Directors overseeing 30+ student-led service organizations, ensuring equitable access to key resources such as funding (over \$200K USD) and transportation.
+-   Develop long-term knowledge continuity tools, including tutorial videos, online dashboards, and documentation, to ensure sustainable onboarding and smoother transitions between annual leadership teams.
 
-**Financial Controller Intern**, SIEMENS Advanta -- *Prague, Czech Republic*  
-*June 2024 -- August 2024*  
+**Financial Controller Intern**, SIEMENS Advanta -- *Prague, Czech Republic*\
+*June 2024 -- August 2024*
 
-- Conducted five project-controlling case studies on topics such as purchase volume, IT cost analysis, and manpower planning, utilizing Excel and exploring AI tools to optimize processes.
-- Shadowed key financial controlling processes, including ordering, time booking, reporting, and cost and supplier analysis, gaining familiarity with SAP invoicing and corporate procedures.
+-   Conducted five project-controlling case studies on topics such as purchase volume, IT cost analysis, and manpower planning, utilizing Excel and exploring AI tools to optimize processes.
+-   Shadowed key financial controlling processes, including ordering, time booking, reporting, and cost and supplier analysis, gaining familiarity with SAP invoicing and corporate procedures.
 
-**Resident Assistant**, UCLA Residential Life -- *Los Angeles, CA*  
-*September 2023 -- June 2024*  
+**Resident Assistant**, UCLA Residential Life -- *Los Angeles, CA*\
+*September 2023 -- June 2024*
 
-- Selected out of over 2,000 UCLA applicants to be a Resident Assistant (RA), overseeing the wellbeing and safety of 73 student residents in UCLA housing and fostering community by organizing a wide variety of programs.
-- Completed a comprehensive 2-week training program to refine managerial skills and interpersonal counseling techniques for effective conflict resolution and leadership.
+-   Selected out of over 2,000 UCLA applicants to be a Resident Assistant (RA), overseeing the wellbeing and safety of 73 student residents in UCLA housing and fostering community by organizing a wide variety of programs.
+-   Completed a comprehensive 2-week training program to refine managerial skills and interpersonal counseling techniques for effective conflict resolution and leadership.
 
-**Naval Officer, Platoon Commander**, Singapore Armed Forces -- *Singapore*  
-*January 2020 -- November 2021*  
+**Naval Officer, Platoon Commander**, Singapore Armed Forces -- *Singapore*\
+*January 2020 -- November 2021*
 
--	Spearheaded the coordination of daily operations and personnel within the Fast Craft Company in as Officer-Of-The-Day in the Fast Craft Training Unit (FCTU).
--	Guided and mentored groups of 10 to 20 new recruits at a time; facilitated their training schedules to ensure a safe and effective progression towards operational readiness.
-
-
-
-
+-   Spearheaded the coordination of daily operations and personnel within the Fast Craft Company in as Officer-Of-The-Day in the Fast Craft Training Unit (FCTU).
+-   Guided and mentored groups of 10 to 20 new recruits at a time; facilitated their training schedules to ensure a safe and effective progression towards operational readiness.
 :::
