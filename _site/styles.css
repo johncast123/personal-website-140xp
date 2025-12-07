@@ -25,3 +25,22 @@
   color: #e0e7ff !important;
 }
 
+/* Reduce description text size in listings */
+.quarto-listing .listing-description {
+  font-size: 0.85rem;   /* smaller text */
+  line-height: 1.3;     /* tighter spacing */
+  color: #555;          /* optional softer tone */
+}
+
+/* Force size for project listing images */
+img.thumbnail,
+.quarto-listing ul li img,
+.quarto-grid-item img,
+.quarto-listing .listing-img img,
+.quarto-listing .thumbnail img,
+.quarto-listing img {
+  width: 220px !important;
+  height: 150px !important;
+  object-fit: cover !important;
+  border-radius: 12px !important;
+}

@@ -2,19 +2,24 @@
 title: "Projects"
 toc: false
 listing:
-  - id: project-listing
+  - id: project-list
     contents:
-      - "/projects/*.qmd"
-    sort: true
+      - projects
+    sort: date desc
     sort-ui: true
     filter-ui: true
-    type: table
+    type: default
     fields:
       - title
+      - subtitle
+      - description
+      - date
+      - image
+    max-description-length: 120
     categories: false
 ---
 
 These are some of the projects I worked on during my time at UCLA.
 
-::: project-listing
+::: project-list
 :::

@@ -1,0 +1,13 @@
+---
+title: "ASA DataFest 2025 - Judges' Choice 🏅"
+subtitle: "Insights Under Pressure: Savills Real Estate Data" 
+description: "Awarded **Judges' Choice** (out of 80+ teams) at ASA DataFest 2025, an annual 48-hour hackathon competition. Teams this year were tasked with analyzing a large real-estate data set provided by Savills to uncover actionable insights on pricing and market trends. These are the insights we uncovered..."
+date: 04-27-2025
+image: DataFest_items/slide_cover.png
+format:
+  html:
+    toc: false
+    code-tools: false
+    anchor-sections: false
+---
+

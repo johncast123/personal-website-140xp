@@ -1,6 +1,11 @@
 [
   {
     "listing": "/projects.html",
-    "items": []
+    "items": [
+      "/projects/econ_144_projects.html",
+      "/projects/Mutiny.html",
+      "/projects/DataFest.html",
+      "/projects/GIP_research.html"
+    ]
   }
 ]

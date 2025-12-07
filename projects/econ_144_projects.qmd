@@ -1,0 +1,13 @@
+---
+title: "Forecasting Singapore's Electricity Generation"
+subtitle: "Comparing Classical & Machine Learning Models" 
+description: "Built forecasting models on five decades of Singapore electricity generation data using ARIMA, ETS, Holt-Winters, Neural Network Autoregression, and Prophet. Our team compared model performance using accuracy metrics and residual diagnostics to determine which model produces the strongest forecasts. This paper was produced as part of the ECON 144 course at UCLA."
+date: 12-01-2025
+image: econ_144_projects_items/singapore_cover.jpeg
+format:
+  html:
+    toc: false
+    code-tools: false
+    anchor-sections: false
+---
+

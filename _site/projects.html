@@ -73,20 +73,20 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-project-listing .list');
+    const listingTargetEl = window.document.querySelector('#listing-project-list .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
     }
 
     const options = {
-      valueNames: ['listing-title',{ data: ['index'] },{ data: ['categories'] }],
+      valueNames: ['listing-title','listing-subtitle','listing-description','listing-date','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: [],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-subtitle","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-project-listing'] = new List('listing-project-listing', options);
+    window['quarto-listings']['listing-project-list'] = new List('listing-project-list', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -203,29 +203,138 @@ window.Quarto = {
 
 
 <p>These are some of the projects I worked on during my time at UCLA.</p>
-<div class="project-listing">
+<div class="project-list">
 
 </div>
 
 
 
 
-<div class="quarto-listing quarto-listing-container-table" id="listing-project-listing">
+<div class="quarto-listing quarto-listing-container-default" id="listing-project-list">
 <div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+    <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+    <select id="listing-project-list-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-project-list'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+      <option value="" disabled="" selected="" hidden="">Order By</option>
+      <option value="index" data-direction="asc">Default</option>
+      <option value="listing-title" data-direction="asc">
+        Title
+      </option>
+      <option value="listing-date-sort" data-direction="asc">
+        Date - Oldest
+      </option>
+      <option value="listing-date-sort" data-direction="desc">
+        Date - Newest
+      </option>
+    </select>
+  </div>
     <div class="input-group input-group-sm quarto-listing-filter">
       <span class="input-group-text"><i class="bi bi-search"></i></span>
       <input type="text" class="search form-control" placeholder="Filter">
     </div>
 </div>
-<table class="quarto-listing-table table caption-top">
-<thead>
-<tr class="header">
-<th data-quarto-table-cell-role="th">Title</th>
-</tr>
-</thead>
-<tbody class="list">
-</tbody>
-</table>
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1764576000000" data-listing-file-modified-sort="1765140382723" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+<div class="thumbnail"><a href="./projects/econ_144_projects.html" class="no-external">
+
+<img loading="lazy" src="./projects/econ_144_projects_items/singapore_cover.jpeg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./projects/econ_144_projects.html" class="no-external">Forecasting Singapore’s Electricity Generation</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./projects/econ_144_projects.html" class="no-external">Comparing Classical &amp; Machine Learning Models</a>
+</div>
+<div class="delink listing-description"><a href="./projects/econ_144_projects.html" class="no-external">
+<p>Built forecasting models on five decades of Singapore electricity generation data using ARIMA, ETS, Holt-Winters…</p>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./projects/econ_144_projects.html" class="no-external">
+<div class="listing-date">
+Dec 1, 2025
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1759734000000" data-listing-file-modified-sort="1765137248774" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+<div class="thumbnail"><a href="./projects/Mutiny.html" class="no-external">
+
+<img loading="lazy" src="./projects/Mutiny_items/mutiny_cover_art.png" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./projects/Mutiny.html" class="no-external">LD58 Game Jam Competition - Mutiny’s Last Reward</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./projects/Mutiny.html" class="no-external">My First Game Jam Experience</a>
+</div>
+<div class="delink listing-description"><a href="./projects/Mutiny.html" class="no-external">
+<p>Created Mutiny’s Last Reward during the LD58 Global Game Jam as part of a 72-hour challenge. Working in a 2-person…</p>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./projects/Mutiny.html" class="no-external">
+<div class="listing-date">
+Oct 6, 2025
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1745737200000" data-listing-file-modified-sort="1765138647397" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+<div class="thumbnail"><a href="./projects/DataFest.html" class="no-external">
+
+<img loading="lazy" src="./projects/DataFest_items/slide_cover.png" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./projects/DataFest.html" class="no-external">ASA DataFest 2025 - Judges’ Choice 🏅</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./projects/DataFest.html" class="no-external">Insights Under Pressure: Savills Real Estate Data</a>
+</div>
+<div class="delink listing-description"><a href="./projects/DataFest.html" class="no-external">
+<p>Awarded <strong>Judges’ Choice</strong> (out of 80+ teams) at ASA DataFest 2025, an annual 48-hour hackathon competition. Teams…</p>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./projects/DataFest.html" class="no-external">
+<div class="listing-date">
+Apr 27, 2025
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="3" data-listing-date-sort="1725001200000" data-listing-file-modified-sort="1765136099956" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+<div class="thumbnail"><a href="./projects/GIP_research.html" class="no-external">
+
+<img loading="lazy" src="./projects/GIP_research_items/deglobalization_cover.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./projects/GIP_research.html" class="no-external">Deglobalization: Have We Reached the Limits of Interconnectivity?</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./projects/GIP_research.html" class="no-external">Global Trade Policy and Geopolitical Tension</a>
+</div>
+<div class="delink listing-description"><a href="./projects/GIP_research.html" class="no-external">
+<p>During UCLA’s Global Internship Program, I conducted independent research on the state of globalization and whether…</p>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./projects/GIP_research.html" class="no-external">
+<div class="listing-date">
+Aug 30, 2024
+</div>
+</a>
+</div>
+</div>
+</div>
 <div class="listing-no-matching d-none">No matching items</div>
 </div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

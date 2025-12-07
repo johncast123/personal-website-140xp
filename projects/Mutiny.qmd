@@ -1,0 +1,13 @@
+---
+title: "LD58 Game Jam Competition - Mutiny's Last Reward"
+subtitle: "My First Game Jam Experience" 
+description: "Created Mutiny’s Last Reward during the LD58 Global Game Jam as part of a 72-hour challenge. Working in a 2-person team, I lead the level design, game mechanics, and sound implementation. The final product featured 6 unique levels and placed **97th (top 7%)** out of 1,391 submissions  overall as well as **39th (top 2.8%)** in the Fun category. Give it a try!"
+date: 10-06-2025
+image: Mutiny_items/mutiny_cover_art.png
+format:
+  html:
+    toc: false
+    code-tools: false
+    anchor-sections: false
+---
+
