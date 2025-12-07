@@ -1,0 +1,16 @@
+---
+title: "Predicting U.S. 2020 Presidential Election Outcomes with Machine Learning"
+subtitle: "Classification Modeling with Supervised Learning " 
+description: "Applied supervised machine learning techniques to tune parameters on models such as logistic regression, random forest, XGBoost, KNN, and stacked models in order to predict the winning candidate of each U.S. county using demographic, population, education, and economic data. This was created as part of a Kaggle competition for the STATS 101C course at UCLA, where our final model placed **2nd (out of 14 teams)**."
+date: 09-12-2025
+image: stats101c_project_items/stats101c_cover.jpeg
+format:
+  html:
+    toc: false
+    code-tools: false
+    anchor-sections: false
+---
+
+## Full Report
+
+![Full report of the Supervised Learning Process](stats101c_project_items/Classification%20Final%20Report.pdf){width="100%" height="500"}

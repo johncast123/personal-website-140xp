@@ -1,0 +1,16 @@
+---
+title: "What Predicts NBA Performance? A Regression-Based Analysis"
+subtitle: "Feature selection and Model evaluation in R" 
+description: "Analyzed NBA player statistics from the 23/24 Season using Multiple Linear Regression to understand which features contribute the most to on-court performance. By performing EDA, feature engineering, and hypothesis testing I was able to evaluate the variables which lead to the strongest model fit. This paper was produced as part of the STATS 101A course at UCLA."
+date: 03-14-2025
+image: stats101a_project_items/nba_cover.jpg
+format:
+  html:
+    toc: false
+    code-tools: false
+    anchor-sections: false
+---
+
+## Full Report
+
+![Full report on NBA MLR](stats101a_project_items/JohnTan_FinalProject_stats101a.pdf){width="100%" height="500"}

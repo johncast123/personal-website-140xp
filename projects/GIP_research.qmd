@@ -10,3 +10,7 @@ format:
     code-tools: false
     anchor-sections: false
 ---
+
+## Full Paper
+
+![Full Research Paper](GIP_research_items/GIP_paper.pdf){width="100%" height="500"}
