@@ -2,6 +2,7 @@
 title: "Deglobalization: Have We Reached the Limits of Interconnectivity?"
 subtitle: "Global Trade Policy and Geopolitical Tension" 
 description: "During UCLA's Global Internship Program, I conducted independent research on the state of globalization and whether recent shocks such as COVID-19, U.S.-China tensions, and supply chain restructuring indicate a shift toward deglobalization."
+featured: true
 date: 08-30-2024
 image: GIP_research_items/deglobalization_cover.jpg
 format:

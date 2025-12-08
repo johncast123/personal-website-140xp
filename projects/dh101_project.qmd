@@ -1,0 +1,18 @@
+---
+title: "Understanding Educational Disparities in the U.S. through Data & Digital Humanities"
+subtitle: "Investigating geographic, racial, and historical factors behind educational outcomes" 
+description: "What causes the disparities in educational outcomes in the U.S.? Our team built *Roots of Education*, a research website examining systemic factors behind this inequity. Using the [U.S. education data set](https://edopportunity.org) from Stanford University, we cleaned and engineered data, created visualizations in Tableau, and synthesized secondard research across history, policy, and social inequality to figure out why these disparities persist."
+date: 08-01-2025
+image: dh101_project_items/roots_cover.jpg
+format:
+  html:
+    toc: false
+    code-tools: false
+    anchor-sections: false
+---
+
+## Website
+
+The website communicates our findings through interactive charts, accessible writing, and contextual analysis, highlighting how geography, race, and systemic factors intersect to shape educational opportunity and outcomes.
+
+[Explore the website!](https://rootsofeducation.humspace.ucla.edu) 

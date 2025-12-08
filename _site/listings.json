@@ -2,14 +2,15 @@
   {
     "listing": "/projects.html",
     "items": [
-      "/projects/econ_144_project.html",
-      "/projects/Mutiny.html",
-      "/projects/stats101c_project.html",
-      "/projects/stats101b_project.html",
       "/projects/DataFest.html",
-      "/projects/stats101a_project.html",
+      "/projects/econ144_project.html",
+      "/projects/Mutiny.html",
       "/projects/GIP_research.html",
-      "/projects/theater_c146a_project.html"
+      "/projects/stats101c_project.html",
+      "/projects/stats101a_project.html",
+      "/projects/theaterc146a_project.html",
+      "/projects/stats101b_project.html",
+      "/projects/dh101_project.html"
     ]
   }
 ]

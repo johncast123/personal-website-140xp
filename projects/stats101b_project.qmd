@@ -1,7 +1,7 @@
 ---
 title: "Mind Over Music: The Effect of Music on Memory Performance"
 subtitle: "Experimental Design using Simulated Islanders" 
-description: "Conducted a randomized block experiment to evaluate how different music genres impact short-term memory performance. Using a [software](https://islands.smp.uq.edu.au/login.php) which simulates islanders that we could perform experiments on, we compared no music, classical, and heavy metal conditions using ANOVA and Tukey HSD analysis. Results showed heavy metal significantly increased completion time. These materials were produced as part of the STATS 101B course at UCLA."
+description: "Conducted a randomized block experiment to evaluate how different music genres impact short-term memory performance. Using a [software](https://islands.smp.uq.edu.au/login.php) which simulates islanders that we could perform experiments on, we compared no music, classical, and heavy metal conditions using ANOVA and Tukey HSD analysis. Results showed heavy metal significantly increased completion time. These materials were produced for STATS 101B at UCLA."
 date: 06-06-2025
 image: stats101b_project_items/stats_101b_cover.jpeg
 format:

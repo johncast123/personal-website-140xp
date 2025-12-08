@@ -5,10 +5,10 @@ listing:
   - id: project-list
     contents:
       - projects
-    sort: date desc
+    sort: featured desc, date desc
     sort-ui: true
     filter-ui: true
-    page-size: 5
+    page-size: 4
     type: default
     fields:
       - title

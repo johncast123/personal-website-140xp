@@ -1,0 +1,16 @@
+---
+title: "Designing an Interactive Olympic Experience for LA28"
+subtitle: "Concept ideation, audience research, wish fulfillment & experience design" 
+description: "Created a pitch deck proposing *The Olympic Challenge*, a hybrid digital and physical entertainment experience for the LA28 Olympics. Our team developed the concept from research, focusing on audience engagement, Olympic values, scalability, and sustainability. We pitched the final proposal to a panel of judges - including a member of the LA28 organizing committee. This project was produced as coursework for THEATER C146A at UCLA."
+date: 03-15-2024
+image: theaterc146a_project_items/la28_cover.jpeg
+format:
+  html:
+    toc: false
+    code-tools: false
+    anchor-sections: false
+---
+
+## Final Proposal Presentation
+
+![Pitch Deck of *The Olympic Challenge*](theater_c146a_project_items/The%20Olympic%20Challenge%20-%20Final%20Presentation.pdf){width="100%" height="450"}

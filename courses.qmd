@@ -9,32 +9,31 @@ These are some **notable courses** that I have taken, which have allowed me to h
 
 #### Statistics
 
-| **Course Number**   | **Course Name**                                                                 | **Term** |
-|--|----|--|
-| STATS 100C          | Linear Models                                                                   | *Spring 2025* |
-| STATS 101A          | Introduction to Data Analysis and Regression                                    | *Winter 2025* |
-| STATS 101B          | Introduction to Design and Analysis of Experiment                               | *Spring 2025* |
-| STATS 101C          | Introduction to Statistical Models and Data Mining                              | *Summer 2025* |
-| STATS 102A          | Introduction to Computational Statistics with R                                 | *Winter 2025* |
-| STATS 102B          | Introduction to Computation and Optimization for Statistics                     | *Spring 2025* |
-| STATS 102C          | Introduction to Monte Carlo Methods                                             | *Summer 2025* |
-| STATS 140XP/141XP   | Practice of Statistical Consulting                                              | *Fall 2025, Winter 2026* |
+| **Course Number** | **Course Name** | **Term** |
+|------------------|-----------------------------------|------------------|
+| STATS 100C | Linear Models | *Spring 2025* |
+| [STATS 101A](projects/stats101a_project.qmd) | Introduction to Data Analysis and Regression | *Winter 2025* |
+| [STATS 101B](projects/stats101b_project.qmd) | Introduction to Design and Analysis of Experiment | *Spring 2025* |
+| [STATS 101C](projects/stats101c_project.qmd) | Introduction to Statistical Models and Data Mining | *Summer 2025* |
+| STATS 102A | Introduction to Computational Statistics with R | *Winter 2025* |
+| STATS 102B | Introduction to Computation and Optimization for Statistics | *Spring 2025* |
+| STATS 102C | Introduction to Monte Carlo Methods | *Summer 2025* |
+| STATS 140XP/141XP | Practice of Statistical Consulting | *Fall 2025, Winter 2026* |
 
 #### Economics
 
-| **Course Number**   | **Course Name**                                                                 | **Term** |
-|--|----|--|
-| ECON 103            | Introduction to Econometrics                                                    | *Spring 2024* |
-| ECON 104            | Data Science for Economists                                                     | *Fall 2024* |
-| ECON 106I           | Organization of Firms                                                           | *Fall 2025* |
-| ECON 134            | Environmental Economics                                                         | *Fall 2024* |
-| ECON 144            | Economic Forecasting                                                            | *Summer 2023* |
-| ECON 170            | Industrial Organization: Theory and Tactics                                     | *Spring 2024* |
+| **Course Number** | **Course Name** | **Term** |
+|------------------|-----------------------------------|------------------|
+| ECON 103 | Introduction to Econometrics | *Spring 2024* |
+| ECON 104 | Data Science for Economists | *Fall 2024* |
+| ECON 106I | Organization of Firms | *Fall 2025* |
+| ECON 134 | Environmental Economics | *Fall 2024* |
+| [ECON 144](projects/econ144_project.qmd) | Economic Forecasting | *Fall 2025* |
+| ECON 170 | Industrial Organization: Theory and Tactics | *Spring 2024* |
 
 #### Miscellaneous
 
-| **Course Number**   | **Course Name**                                                                 | **Term** |
-|--|----|--|
-| THEATER C146A       | Art and Process of Entertainment Design                                         | *Winter 2024* |
-| DGT HUM 101         | Introduction to Digital Humanities                                              | *Summer 2025* |
-
+| **Course Number** | **Course Name**                         | **Term**      |
+|------------------|-----------------------------------|------------------|
+| [THEATER C146A](projects/theaterc146a_project.qmd)     | Art and Process of Entertainment Design | *Winter 2024* |
+| [DGT HUM 101](projects/dh101_project.qmd)       | Introduction to Digital Humanities      | *Summer 2025* |
