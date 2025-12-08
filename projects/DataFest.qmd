@@ -11,3 +11,17 @@ format:
     code-tools: false
     anchor-sections: false
 ---
+
+## The Challenge
+
+We were tasked to analyze a rich but messy data set provided by Savills Real Estate, to find potential actionable insights, overlooked trends, major oddities, or interesting quirks within real estate data set. And we were to do this all within **48 hours**.
+
+## Final Slides
+
+After several long hours of hard work, dead ends, sparks of ideas, and intense concentration, we were able to put together a slide deck that synthesized the main trends we saw occurring within key markets. The finished product is below:
+
+![](DataFest_items/C8Yoohooo.pdf){width="100%" height="450"}
+
+---
+
+Read more about the competition and the results in [this article written by UCLA](https://moments.stat.ucla.edu/asa-datafest-ucla-celebrates-its-15th-year/).

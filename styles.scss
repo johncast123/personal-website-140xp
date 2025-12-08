@@ -117,3 +117,19 @@ h2 {
   padding: 1.5em 3em 0em 3em;
 }
 }
+
+.column-centered {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  margin-bottom: 1em !important;
+}
+
+/* NEW — required to center images + iframe content reliably */
+.column-centered img,
+.column-centered iframe {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
