@@ -1,0 +1,31 @@
+---
+title: "Balancing Performance and Longevity: Modeling Injury Risk in MLB Pitchers"
+subtitle: "A Data-Driven Exploration of What Keeps Pitchers Dominant" 
+description: "Developed statistical model to analyze how pitch-type usage, velocity, and workload shape both MLB injury risk and career length. We show that fastballs drive success — but also injury risk, and that early-career control and velocity meaningfully predict sustained performance."
+order: 2
+date: 12-09-2025
+image: stats140xp_project_items/pitching_cover.jpg
+format:
+  html:
+    toc: false
+    code-tools: false
+    anchor-sections: false
+---
+
+## Poster
+
+```{=html}
+<a href="stats140xp_project_items/Stats_140XP_poster.pdf" target="_blank" rel="noopener">
+  <img src="stats140xp_project_items/Stats_140XP_poster.png"
+       alt="Stats 140XP MLB Pitching Poster"
+       style="max-width:100%; height:auto; display:block; margin:auto;">
+</a>
+```
+
+## Report
+
+![Final report of the analysis](stats140xp_project_items/140XP_Final_Project_Report.pdf){width="100%" height="500"}
+
+## Presentation
+
+![Presentation of findings](stats140xp_project_items/STATS140 PRESENTATION.pdf){width="100%" height="450"}
