@@ -28,4 +28,4 @@ format:
 
 ## Presentation
 
-![Presentation of findings](stats140xp_project_items/STATS140 PRESENTATION.pdf){width="100%" height="450"}
+![Presentation of findings](stats140xp_project_items/STATS140%20PRESENTATION.pdf){width="100%" height="450"}
