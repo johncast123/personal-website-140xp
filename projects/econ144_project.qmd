@@ -14,4 +14,4 @@ format:
 
 ## Full Report
 
-![Full report comparing various Forecasting Models](econ_144_project_items/Econ-144-Project-3-Final-BCJK.pdf){width="100%" height="500"}
+![Full report comparing various Forecasting Models](econ144_project_items/Econ-144-Project-3-Final-BCJK.pdf){width="100%" height="500"}

@@ -13,4 +13,4 @@ format:
 
 ## Final Proposal Presentation
 
-![Pitch Deck of *The Olympic Challenge*](theater_c146a_project_items/The%20Olympic%20Challenge%20-%20Final%20Presentation.pdf){width="100%" height="450"}
+![Pitch Deck of *The Olympic Challenge*](theaterc146a_project_items/The%20Olympic%20Challenge%20-%20Final%20Presentation.pdf){width="100%" height="450"}
